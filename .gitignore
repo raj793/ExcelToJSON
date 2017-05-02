@@ -3,3 +3,6 @@
 ################################################################################
 
 /packages
+/Convert_ExcelToJSON/obj/Debug
+/.vs/Convert_ExcelToJSON/v14
+/Convert_ExcelToJSON/bin
